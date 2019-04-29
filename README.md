@@ -2,7 +2,9 @@
 <h4>首先声明，这是一个会长期鸽置的项目</h4>
 <h4>如果你感兴趣，点击右上角fork来加入吧！</h4>
 <h4>随时提交拉取请求，我会尽快合并</h4>
->> 请按照格式来编写，下面提供几个参考网站
+
+<h7>请按照格式来编写，下面提供几个参考网站</h7>
+
 <p><a href="https://minecraft-zh.gamepedia.com">我的世界Wiki</a></p>
 <p><a href="http://saltypixel.ga/textures">网络材质包 by <a href="https://github.com/AlexPads"</a>AlexPads</a></p>
 <p><a href="https://minecraft-ids.grahamedgecombe.com">英文ID对照表</a></p>
