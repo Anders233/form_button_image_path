@@ -1,4 +1,3 @@
-# form_button_image_path
 <h1>Minecraft_form_button_image_path<img src="https://raw.githubusercontent.com/Anders233/form_button_image_path/master/image.png" height="64" width="64" align="left"></img></h1>
 <h4>首先声明，这是一个会长期鸽置的项目</h4>
 <h4>如果你感兴趣，点击右上角fork来加入吧！</h4>
