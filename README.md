@@ -5,7 +5,9 @@
 
 <h7>请按照格式来编写，下面提供几个参考网站</h7>
 
-<p><a href="https://minecraft-zh.gamepedia.com">我的世界Wiki</a></p>
-<p><a href="http://saltypixel.ga/textures">网络材质包 by <a href="https://github.com/AlexPads"</a>AlexPads</a></p>
+<p><a href="https://minecraft-zh.gamepedia.com">我的世界中文Wiki</a></p>
+<p><a href="https://minecraft.gamepedia.com">我的世界英文Wiki</a></p>
 <p><a href="https://minecraft-ids.grahamedgecombe.com">英文ID对照表</a></p>
 <p><a href="http://mc.zyyapp.com">中文ID对照表</a></p>
+<p><a href="http://saltypixel.ga/textures">网络材质包 by <a href="https://github.com/AlexPads"</a>AlexPads</a></p>
+<p><a href="https://minecraft.gamepedia.com/Bedrock_Edition_data_values">全部物品和方块信息表</a></p>
