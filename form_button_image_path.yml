@@ -7,7 +7,7 @@
 # 为了更方便PocketMine-MP or Nukkit插件开发者进行UI图像开发而编写的
 # 可以实现根据物品ID和特殊值直接获取图片路径，请随意修改~~~
 - "0:0": "textures/blocks/Air.png"//当然这是不存在的，只是一个示例
-- "1:0": "textures/blocks/stone.png"//就行这样
+- "1:0": "textures/blocks/stone.png"//就像这样
 - "1:1": "textures/blocks/granite.png"
 - "1:2": "textures/blocks/polished_granite.png"
 - "1:3": "textures/blocks/diorite.png"
